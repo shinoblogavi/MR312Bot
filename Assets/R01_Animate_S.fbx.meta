@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 75de3cbc7257e4941a84d724a0495f69
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: joint1
+    100002: joint10
+    100004: joint11
+    100006: joint12
+    100008: joint13
+    100010: joint14
+    100012: joint15
+    100014: joint16
+    100016: joint17
+    100018: joint18
+    100020: joint18 1
+    100022: joint18 2
+    100024: joint18 3
+    100026: joint19
+    100028: joint19 1
+    100030: joint19 2
+    100032: joint19 3
+    100034: joint2
+    100036: joint20
+    100038: joint20 1
+    100040: joint20 2
+    100042: joint20 3
+    100044: joint21
+    100046: joint22
+    100048: joint23
+    100050: joint24
+    100052: joint25
+    100054: joint26
+    100056: joint27
+    100058: joint28
+    100060: joint29
+    100062: joint3
+    100064: joint30
+    100066: joint31
+    100068: joint32
+    100070: joint33
+    100072: joint34
+    100074: joint35
+    100076: joint36
+    100078: joint37
+    100080: joint38
+    100082: joint39
+    100084: joint4
+    100086: joint40
+    100088: joint41
+    100090: joint42
+    100092: joint43
+    100094: joint44
+    100096: joint45
+    100098: joint46
+    100100: joint47
+    100102: joint48
+    100104: joint49
+    100106: joint5
+    100108: joint50
+    100110: joint51
+    100112: joint6
+    100114: joint7
+    100116: joint8
+    100118: joint9
+    100120: nurbsCircle1
+    100122: nurbsCircle10
+    100124: nurbsCircle11
+    100126: nurbsCircle2
+    100128: nurbsCircle3
+    100130: nurbsCircle4
+    100132: nurbsCircle5
+    100134: nurbsCircle6
+    100136: nurbsCircle7
+    100138: nurbsCircle8
+    100140: nurbsCircle9
+    100142: polySurface17
+    100144: polySurface18
+    100146: //RootNode
+    400000: joint1
+    400002: joint10
+    400004: joint11
+    400006: joint12
+    400008: joint13
+    400010: joint14
+    400012: joint15
+    400014: joint16
+    400016: joint17
+    400018: joint18
+    400020: joint18 1
+    400022: joint18 2
+    400024: joint18 3
+    400026: joint19
+    400028: joint19 1
+    400030: joint19 2
+    400032: joint19 3
+    400034: joint2
+    400036: joint20
+    400038: joint20 1
+    400040: joint20 2
+    400042: joint20 3
+    400044: joint21
+    400046: joint22
+    400048: joint23
+    400050: joint24
+    400052: joint25
+    400054: joint26
+    400056: joint27
+    400058: joint28
+    400060: joint29
+    400062: joint3
+    400064: joint30
+    400066: joint31
+    400068: joint32
+    400070: joint33
+    400072: joint34
+    400074: joint35
+    400076: joint36
+    400078: joint37
+    400080: joint38
+    400082: joint39
+    400084: joint4
+    400086: joint40
+    400088: joint41
+    400090: joint42
+    400092: joint43
+    400094: joint44
+    400096: joint45
+    400098: joint46
+    400100: joint47
+    400102: joint48
+    400104: joint49
+    400106: joint5
+    400108: joint50
+    400110: joint51
+    400112: joint6
+    400114: joint7
+    400116: joint8
+    400118: joint9
+    400120: nurbsCircle1
+    400122: nurbsCircle10
+    400124: nurbsCircle11
+    400126: nurbsCircle2
+    400128: nurbsCircle3
+    400130: nurbsCircle4
+    400132: nurbsCircle5
+    400134: nurbsCircle6
+    400136: nurbsCircle7
+    400138: nurbsCircle8
+    400140: nurbsCircle9
+    400142: polySurface17
+    400144: polySurface18
+    400146: //RootNode
+    2100000: phongE2
+    2300000: polySurface17
+    3300000: polySurface17
+    4300000: polySurface18
+    4300002: polySurface17
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface18
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE2
+    second: {fileID: 2100000, guid: 77017ef978cd4904a949bc1f017d91d7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 264
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
